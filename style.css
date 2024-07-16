@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(250, 243, 235);
+}
+.produto {
+    width: auto;
+    height: 200px;
+}
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
